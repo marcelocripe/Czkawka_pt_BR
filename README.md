@@ -1,7 +1,7 @@
-Repositório oficial do programa Localizador de Arquivos Duplicados Czkawka:
+Repositório oficial do programa Comparador de Arquivos Duplicados Czkawka/Krokiet:
 https://github.com/qarmin/czkawka
 
-Plataforma de tradução do programa Localizador de Arquivos Duplicados Czkawka:
+Plataforma de tradução do programa Comparador de Arquivos Duplicados Czkawka/Krokiet:
 https://crowdin.com/project/czkawka
 
 
